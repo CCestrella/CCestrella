@@ -8,7 +8,7 @@ About Me
 - 🔍 Interests: Big data, marketing, reading, journaling, exploring the outdoors, and advocating for women in tech. 
 - 🌱 Currently Learning: JavaScript, React, and  studying to pass my Microsoft PL-300 exam
 - 🤝 Looking to Collaborate On: Projects that turn raw data into powerful, actionable insights or that build impactful programs with lasting value.
-- 🌍 Connect With Me: LinkedIn
+- 🌍 Connect With Me: [LinkedIn](https://www.linkedin.com/in/ccestrella/)
 - 😄 Pronouns: She/Her
 - 🌿 Fun Fact: While I love tech, I also have a green thumb! My garden is my offline sanctuary.
 
